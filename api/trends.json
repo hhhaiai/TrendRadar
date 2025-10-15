@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:24:01.685269+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-10-15T14:35:33.466831+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -29,8 +29,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时35分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -61,26 +73,16 @@
           "time_info": "[00时29分 ~ 12时29分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 13时24分]"
-        },
-        {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
           "url": "https://wallstreetcn.com/articles/3757151",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时35分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -195,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
@@ -578,6 +591,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -813,8 +837,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 13时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 14时35分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -1013,8 +1037,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时35分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -1026,8 +1050,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 14时35分]"
         },
         {
           "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
@@ -1343,11 +1367,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时35分]"
         }
       ]
     }
