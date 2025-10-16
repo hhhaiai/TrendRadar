@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:23:49.966035+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2025-10-16T16:32:40.844531+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -156,6 +156,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。",
           "url": "https://wallstreetcn.com/livenews/2988372",
           "source": "华尔街见闻-快讯",
@@ -165,6 +176,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时32分]"
         },
         {
           "title": "特朗普挪用五角大楼资金发军饷",
@@ -209,19 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时23分]"
         },
         {
           "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
@@ -498,6 +510,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普称泽连斯基将阐述进攻俄理由",
+          "url": "https://www.toutiao.com/trending/7561700543823924745/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "市场消息：一名法官延长了暂时阻止特朗普政府在俄勒冈州波特兰市部署国民警卫队的命令。",
           "url": "https://flash.jin10.com/detail/20251016024147449800",
           "source": "金十数据",
@@ -559,7 +582,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -718,6 +741,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "【中国购买俄油问题是中美贸易谈判一部分？外交部：坚决反对美方动辄拿中方说事】法新社记者提问，美国总统特朗普昨天表示，他已收到印度总理莫迪的保证，印度将停止从俄罗斯购买石油。特朗普在讲话中补充说，现在是时候让中国也采取同样的行动了。请问，中国购买俄罗斯石油是否属于正在进行的中美贸易谈判的一部分？中方对此持何立场？ 林剑表示，中方已多次就该问题表明立场，中国同包括俄罗斯在内的世界各国开展正常的经贸能源合作，正当合法。美方的做法是典型的单边霸凌和经济胁迫，严重破坏国际经贸规则，威胁全球产业链供应链的安全稳定。 林剑强调，中方在乌克兰危机问题上，一贯秉持客观公正立场，光明磊落，有目共睹。“我们坚决反对美方动辄拿中方说事，坚决反对对中方滥施非法单边制裁和长臂管辖。如果中方的正当权益受到损害，中方必将坚决反制，坚定维护自身的主权发展和安全利益。”（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
           "url": "https://flash.jin10.com/detail/20251016042358046800",
           "source": "金十数据",
@@ -735,7 +769,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -812,11 +846,25 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时32分]"
+        },
+        {
+          "title": "金价除以10=历史性的1979年牛市？",
+          "url": "https://www.cls.cn/detail/2171118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时32分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -833,16 +881,19 @@
           "time_info": "[00时27分 ~ 04时28分]"
         },
         {
-          "title": "金价除以10=历史性的1979年牛市？",
-          "url": "https://www.cls.cn/detail/2171118",
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
           "source": "财联社热门",
           "ranks": [
-            9,
-            4
+            13,
+            12,
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时32分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
@@ -855,20 +906,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时28分]"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时23分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -931,7 +968,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -1053,6 +1090,28 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/2988706",
           "source": "华尔街见闻-快讯",
@@ -1076,11 +1135,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时32分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1217,11 +1277,12 @@
           "url": "https://news.ifeng.com/c/8nUtscOqDDN",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "伊朗说国际原子能机构未履行义务致合作无法开展",
@@ -1233,6 +1294,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：黄金本轮涨势更多受结构性因素支撑 高位价格可能会维持更久",
+          "url": "https://flash.jin10.com/detail/20251016160020734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
