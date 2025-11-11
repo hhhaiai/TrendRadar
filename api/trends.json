@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:28:58.131279+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-11-11T13:24:34.298147+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时24分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -144,6 +144,18 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 13时24分]"
+        },
+        {
           "title": "牛弹琴：特朗普宣布一个大消息",
           "url": "https://www.toutiao.com/trending/7570877314167213595/",
           "source": "今日头条",
@@ -153,18 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时28分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -581,8 +581,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -606,8 +606,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时24分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时24分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -621,17 +634,15 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 13时24分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -668,17 +679,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时28分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股收盘）",
@@ -746,7 +746,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -834,6 +834,18 @@
           "time_info": "05时23分"
         },
         {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时24分]"
+        },
+        {
           "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
           "url": "https://flash.jin10.com/detail/20251111010942677800",
           "source": "金十数据",
@@ -856,24 +868,13 @@
           "time_info": "07时23分"
         },
         {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
           "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
           "url": "https://flash.jin10.com/detail/20251111115423827800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
