@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:26:34.004814+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2025-11-20T19:21:17.664109+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -21,6 +21,18 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时21分]"
+        },
+        {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
           "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
           "source": "凤凰网",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时26分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -140,7 +140,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -363,7 +363,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -542,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120183902087800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
@@ -741,8 +752,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 18时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -760,8 +771,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 18时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -932,8 +943,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1205,11 +1216,12 @@
           "url": "https://wallstreetcn.com/livenews/3007872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
@@ -1231,9 +1243,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
@@ -1264,7 +1276,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1386,7 +1398,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
@@ -1398,6 +1410,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "市场消息：国际原子能机构理事会通过决议，要求伊朗就其被炸毁的核设施和浓缩铀库存作出解释并允许其进入。",
+          "url": "https://flash.jin10.com/detail/20251120183757484800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "市场消息：国际原子能机构理事会通过一项决议，要求伊朗“毫不拖延地”向国际原子能机构通报其浓缩铀库存及受袭核设施的状况。",
+          "url": "https://flash.jin10.com/detail/20251120183719098800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     }
