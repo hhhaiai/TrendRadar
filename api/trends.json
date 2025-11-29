@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:22:27.861972+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-11-29T16:31:02.164533+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -272,18 +272,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 15时22分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
           "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
@@ -294,8 +282,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 16时31分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -566,8 +566,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时48分 ~ 16时31分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -578,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 16时31分]"
         }
       ]
     },
@@ -597,8 +597,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 16时31分]"
         },
         {
           "title": "金价",
