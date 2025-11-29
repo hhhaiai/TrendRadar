@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T12:28:49.429320+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-11-29T13:23:46.296556+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -147,11 +147,12 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -226,6 +227,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美媒称特朗普上周与马杜罗通话",
+          "url": "https://www.toutiao.com/trending/7577943079517683766/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
@@ -233,6 +256,18 @@
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 13时23分]"
+        },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
           "url": "https://wallstreetcn.com/articles/3760251",
@@ -258,18 +293,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -330,6 +353,35 @@
           "time_info": "[04时26分 ~ 09时49分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时23分]"
+        },
+        {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            19,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时23分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
           "url": "https://wallstreetcn.com/livenews/3012371",
           "source": "华尔街见闻-快讯",
@@ -345,20 +397,6 @@
           "time_info": "[03时19分 ~ 07时21分]"
         },
         {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时28分]"
-        },
-        {
           "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
           "url": "https://wallstreetcn.com/livenews/3012370",
           "source": "华尔街见闻-快讯",
@@ -372,19 +410,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时28分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -511,6 +536,65 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 13时23分]"
+        },
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价又涨了",
+          "url": "https://www.douyin.com/hot/2321048",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -561,25 +645,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -594,23 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时48分 ~ 11时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         }
       ]
     },
