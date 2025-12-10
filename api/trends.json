@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T22:28:19.183746+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2025-12-10T23:31:05.483507+08:00",
+  "total_titles_processed": 2096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -159,6 +159,17 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -170,6 +181,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时30分 ~ 21时51分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时31分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -303,17 +328,6 @@
           "time_info": "[21时51分 ~ 22时28分]"
         },
         {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时28分]"
-        },
-        {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
           "url": "https://flash.jin10.com/detail/20251210055642373800",
           "source": "金十数据",
@@ -349,19 +363,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时28分]"
         },
         {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
@@ -591,6 +592,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普政府批准再将6个州排除在补充营养协助计划（SNAP）之外。",
+          "url": "https://flash.jin10.com/detail/20251210225946205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国贸易办公室（USTR）代表格里尔在参议院听证会谈及墨西哥和加拿大对USMCA问题的反应，表示：加拿大并没有在那些（美国总统特朗普）重视的领域遵守承诺。 正与墨西哥密切合作，他们是“讲求实际的”。 预计2026年1月份，美墨加将为了修订USMCA而坐下来（讨论）。",
           "url": "https://wallstreetcn.com/livenews/3017922",
           "source": "华尔街见闻-快讯",
@@ -679,6 +691,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：自美国总统特朗普今年1月上任以来，已有约15.26万名移民被遣返回墨西哥。",
+          "url": "https://flash.jin10.com/detail/20251210224822561800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普政府官员称，美国要求国际刑事法院承诺不起诉美国总统特朗普及其高级官员，否则将对更多国际刑事法院官员实施制裁。",
           "url": "https://flash.jin10.com/detail/20251210190033358800",
           "source": "金十数据",
@@ -718,7 +741,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -803,7 +826,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -860,7 +883,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -924,6 +947,18 @@
           "time_info": "[04时25分 ~ 05时22分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时31分]"
+        },
+        {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
           "url": "https://wallstreetcn.com/livenews/3017904",
           "source": "华尔街见闻-快讯",
@@ -948,24 +983,13 @@
           "time_info": "[06时29分 ~ 07时24分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3018491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
           "url": "https://flash.jin10.com/detail/20251210214414427800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -981,6 +1005,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "全球航空业ETF美股盘初涨0.36%，与可选消费ETF领跑行业ETF，网络股指数ETF跌0.16%，半导体ETF跌0.28%，科技行业ETF跌0.44%，全球科技股指数ETF跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3018507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
@@ -990,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%；Meta Platforms盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
@@ -1232,8 +1278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时00分 ~ 22时28分]"
+          "appearance_count": 21,
+          "time_info": "[10时00分 ~ 23时31分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
