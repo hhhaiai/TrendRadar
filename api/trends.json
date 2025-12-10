@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:35:03.290287+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2025-12-10T17:30:10.326493+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时30分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -122,6 +122,30 @@
           "time_info": "[01时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 17时30分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 17时30分]"
+        },
+        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
@@ -131,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -335,17 +348,6 @@
           "time_info": "[03时13分 ~ 03时18分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
           "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
           "url": "https://wallstreetcn.com/livenews/3017862",
           "source": "华尔街见闻-快讯",
@@ -489,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         },
         {
           "title": "美国总统特朗普：将与“几位”美联储主席人选会面。",
@@ -943,8 +956,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时00分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[10时00分 ~ 17时30分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -984,8 +997,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
         {
           "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
           "url": "https://flash.jin10.com/detail/20251210150354627800",
