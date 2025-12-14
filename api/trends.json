@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:20:37.808919+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2025-12-14T20:46:09.718519+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时01分 ~ 17时24分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -329,7 +340,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -515,8 +526,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[13时24分 ~ 20时46分]"
         }
       ]
     }
