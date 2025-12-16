@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:31:11.746483+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2025-12-16T19:24:57.608748+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 19时24分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -78,11 +78,12 @@
             13,
             14,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 19时24分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -121,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时24分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -323,7 +324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -700,7 +701,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
@@ -748,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
