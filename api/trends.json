@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:39:28.685122+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2025-12-23T22:26:23.487011+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 21时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时26分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -54,8 +54,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时42分 ~ 21时39分]"
+          "appearance_count": 14,
+          "time_info": "[11时42分 ~ 22时26分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -142,11 +142,23 @@
             27,
             7,
             8,
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时26分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时39分]"
+          "time_info": "[18时28分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -245,6 +257,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国总统特朗普：关税促成了刚刚公布的出色美国经济数据，而且情况只会越来越好！此外，没有通胀，国家安全也十分稳固。",
+          "url": "https://flash.jin10.com/detail/20251223221939491800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
           "url": "https://wallstreetcn.com/livenews/3025174",
           "source": "华尔街见闻-快讯",
@@ -287,17 +310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时39分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -625,7 +637,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -658,7 +670,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -812,7 +824,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -856,7 +868,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -941,7 +953,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -1106,6 +1118,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223215707947800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3025129",
           "source": "华尔街见闻-快讯",
@@ -1172,6 +1195,19 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时26分]"
+        },
+        {
           "title": "金价突破1400元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1183,18 +1219,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时39分 ~ 17时31分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时39分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -1218,8 +1242,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时26分]"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1231,17 +1267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
@@ -1280,7 +1305,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -1305,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长和埃及外长通话，就双边关系以及重要的地区和国际形势进行了磋商和交换意见。",
+          "url": "https://flash.jin10.com/detail/20251223222440494800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美情报机构未发现伊朗将发动袭击的迹象",
@@ -1384,7 +1420,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
@@ -1392,7 +1428,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1419,6 +1455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 17时31分]"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美元指数22日下跌",
@@ -1463,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
