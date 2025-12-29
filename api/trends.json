@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:23:57.135280+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-29T20:54:21.487754+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,18 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 20时54分]"
+        },
+        {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
           "url": "https://flash.jin10.com/detail/20251228225633143800",
           "source": "金十数据",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 19时23分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -532,7 +532,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -719,7 +719,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1000,7 +1000,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1025,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -1136,7 +1147,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -1144,11 +1155,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时54分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
