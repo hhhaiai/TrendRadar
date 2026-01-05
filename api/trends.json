@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:32:12.956075+08:00",
-  "total_titles_processed": 1408,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-01-05T19:24:44.940997+08:00",
+  "total_titles_processed": 1515,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -32,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 19时24分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -78,6 +76,32 @@
           "time_info": "[10时10分 ~ 16时40分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 19时24分]"
+        },
+        {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
           "url": "https://news.ifeng.com/c/8peBKHvPx8Z",
           "source": "凤凰网",
@@ -97,19 +121,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 19时24分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
-          "source": "凤凰网",
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
           "ranks": [
-            1
+            18,
+            19,
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 19时24分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -189,32 +216,16 @@
           "time_info": "[16时39分 ~ 18时32分]"
         },
         {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            10,
-            7,
-            4
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 18时32分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时24分]"
         },
         {
           "title": "如何看待特朗普每天服用过量阿司匹林",
@@ -282,16 +293,15 @@
           "time_info": "[16时39分 ~ 17时37分]"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
@@ -342,15 +352,28 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
           "ranks": [
-            2
+            24,
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 19时24分]"
+        },
+        {
+          "title": "欧盟发言人：欧盟注意到特朗普关于格陵兰岛的言论。 仍与格陵兰和丹麦站在一起。",
+          "url": "https://wallstreetcn.com/livenews/3030844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
@@ -399,17 +422,15 @@
           "time_info": "10时10分"
         },
         {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "欧盟发言人：欧盟注意到美国总统特朗普关于格陵兰岛的评论。",
+          "url": "https://flash.jin10.com/detail/20260105191645261800",
+          "source": "金十数据",
           "ranks": [
-            24,
-            6,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美军委内瑞拉行动引发党争 民主党人呼吁弹劾特朗普",
@@ -485,6 +506,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时37分 ~ 14时45分]"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "美前检察官警告称特朗普还有三年任期",
@@ -607,17 +639,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 17时37分]"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普在《大西洋》月刊采访中表示，委内瑞拉副总统德尔茜·罗德里格斯“若不行正道”将付出比马杜罗更惨痛代价。",
@@ -795,7 +816,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -811,6 +832,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
+          "url": "https://www.cls.cn/detail/2247951",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普称不相信乌克兰曾袭击普京住所",
           "url": "https://flash.jin10.com/detail/20260105094045584800",
           "source": "金十数据",
@@ -820,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "特朗普多次威胁，尼尔森发文回击：够了！不要再幻想吞并了",
+          "url": "https://wallstreetcn.com/livenews/3030821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普一天之内威胁多国，被指“将世界带入地缘政治的蛮荒西部”",
@@ -901,93 +944,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://news.ifeng.com/c/8peAynFqde9",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
-          "url": "https://news.ifeng.com/c/8pfbAio37z3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://wallstreetcn.com/livenews/3030326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
-          "url": "https://flash.jin10.com/detail/20260105025806414800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时29分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://flash.jin10.com/detail/20260104203228542800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "伊朗最高领袖就美国对委军事行动表态，誓言绝不会向敌人屈服，美伊对抗会升级吗？",
-          "url": "https://www.zhihu.com/question/1991124760189428274",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -1055,6 +1013,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://news.ifeng.com/c/8peAynFqde9",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
+          "url": "https://news.ifeng.com/c/8pfbAio37z3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时24分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://wallstreetcn.com/livenews/3030326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时24分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
+          "url": "https://flash.jin10.com/detail/20260105025806414800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时29分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时22分]"
+        },
+        {
+          "title": "伊朗最高领袖就美国对委军事行动表态，誓言绝不会向敌人屈服，美伊对抗会升级吗？",
+          "url": "https://www.zhihu.com/question/1991124760189428274",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
