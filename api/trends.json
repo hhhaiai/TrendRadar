@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:33:18.417556+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-01-15T18:31:22.459748+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -31,6 +31,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 10时01分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 18时31分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -65,23 +80,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[10时00分 ~ 18时31分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            6,
-            5,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -95,17 +106,6 @@
           "time_info": "[05时26分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时33分]"
-        },
-        {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
           "url": "https://www.zhihu.com/question/1994760082911675910",
           "source": "知乎",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时47分 ~ 14时40分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -149,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "克里姆林宫就特朗普称泽连斯基阻挠乌克兰和平协议一事回应：特朗普说得对。",
+          "url": "https://flash.jin10.com/detail/20260115180050844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -246,6 +268,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时30分 ~ 14时40分]"
+        },
+        {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "特朗普称与委内瑞拉代总统通话",
@@ -494,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美国总统特朗普签署关键矿物行政命令。",
@@ -843,7 +876,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -873,7 +906,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
@@ -885,6 +918,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时45分 ~ 17时33分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 18时31分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -921,20 +979,6 @@
           "time_info": "[00时37分 ~ 04时27分]"
         },
         {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 17时33分]"
-        },
-        {
           "title": "伊朗对德黑兰飞行情报区空域管控",
           "url": "https://www.douyin.com/hot/2368070",
           "source": "抖音",
@@ -942,11 +986,12 @@
             16,
             14,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 17时33分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 18时31分]"
         },
         {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
@@ -975,17 +1020,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时22分 ~ 11时48分]"
-        },
-        {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 17时33分]"
         },
         {
           "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
@@ -1171,6 +1205,18 @@
           "time_info": "[04时27分 ~ 05时27分]"
         },
         {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
           "title": "伊朗重新开放领空",
           "url": "https://www.toutiao.com/trending/7595433484718719002/",
           "source": "今日头条",
@@ -1205,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时39分]"
+        },
+        {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
@@ -1421,17 +1478,6 @@
           "time_info": "05时27分"
         },
         {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "伊朗约2000枚导弹可覆盖美以基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BA%A62000%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E7%BE%8E%E4%BB%A5%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1526,7 +1572,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1621,8 +1667,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时00分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[10时00分 ~ 18时31分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1774,7 +1820,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1785,7 +1831,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1921,7 +1967,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1977,8 +2023,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 17时33分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 18时31分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
