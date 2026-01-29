@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-29T07:31:20.458734+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-01-29T10:27:03.890632+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
+        },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
@@ -20,28 +32,17 @@
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
           "source": "澎湃新闻",
           "ranks": [
             12,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -52,11 +53,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -80,6 +82,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
@@ -179,6 +192,17 @@
           "time_info": "[01时36分 ~ 02时43分]"
         },
         {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
           "title": "美国总统特朗普在“特朗普账户”活动上讲话：（在获得捐款后）赞赏戴尔科技。",
           "url": "https://wallstreetcn.com/livenews/3045705",
           "source": "华尔街见闻-快讯",
@@ -213,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时43分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
@@ -334,9 +369,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "韩国产业部：韩国产业部长将访问美国，商讨美国总统特朗普提高对韩国商品关税的问题。",
+          "url": "https://flash.jin10.com/detail/20260129100419679800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
@@ -430,7 +476,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -458,8 +504,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -520,6 +566,18 @@
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时27分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
           "url": "https://wallstreetcn.com/livenews/3045695",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -529,17 +587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时36分]"
-        },
-        {
-          "title": "伊朗副外长：做好200%的自卫准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
@@ -584,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗外长称伊朗武装力量“随时准备扣动扳机”",
+          "url": "https://wallstreetcn.com/livenews/3046000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -655,7 +713,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -679,8 +737,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -711,7 +780,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -854,8 +923,22 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            19,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
+        },
         {
           "title": "渣打：金价出现任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
@@ -868,19 +951,6 @@
           "time_info": "[00时43分 ~ 06时32分]"
         },
         {
-          "title": "金价屡创历史新高意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
-        },
-        {
           "title": "金价波动如何影响实体金店",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
           "source": "bilibili 热搜",
@@ -891,11 +961,24 @@
             24,
             27,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -909,16 +992,15 @@
           "time_info": "[00时43分 ~ 07时31分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时31分]"
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "金价波动",
@@ -938,11 +1020,24 @@
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时27分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时27分]"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -954,17 +1049,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -1040,7 +1124,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -1057,7 +1141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -1068,7 +1152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
