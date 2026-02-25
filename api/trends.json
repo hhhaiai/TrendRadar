@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:38:48.725976+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-02-25T10:36:53.875325+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时36分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -40,6 +40,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 07时38分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 10时36分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -56,19 +72,81 @@
           "time_info": "[00时04分 ~ 07时38分]"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 07时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们的国家又赢了。",
+          "url": "https://flash.jin10.com/detail/20260225102417069800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普：美国石油产量上升。 天然气产量处于历史最高水平。 从委内瑞拉获得了超过8000万桶石油。 委内瑞拉是美国的新伙伴和朋友。",
+          "url": "https://wallstreetcn.com/livenews/3058482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：低利率将解决住房问题，保护房屋价值。",
+          "url": "https://flash.jin10.com/detail/20260225102401785800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普：股市创下历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3058481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：美国石油产量上升。",
+          "url": "https://flash.jin10.com/detail/20260225102354834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
@@ -77,9 +155,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "特朗普：低利率将解决房地产市场问题。 抵押贷款利率为四年来最低。 想保护房价，就保持房价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3058478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -92,6 +181,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时09分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3058476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率四年最低且仍在快速下降。",
+          "url": "https://flash.jin10.com/detail/20260225102324680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -191,6 +313,28 @@
           "time_info": "[05时45分 ~ 06时38分]"
         },
         {
+          "title": "美国总统特朗普：我们终结了美国的多元、公平和包容（DEI）。",
+          "url": "https://flash.jin10.com/detail/20260225102313899800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普发表国情咨文时，美国参议院会议厅爆发抗议。",
+          "url": "https://flash.jin10.com/detail/20260225102300679800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
           "url": "https://wallstreetcn.com/livenews/3058233",
           "source": "华尔街见闻-快讯",
@@ -202,6 +346,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国总统特朗普：目前美国大多数州的汽油价格低于每加仑2.30美元。",
+          "url": "https://flash.jin10.com/detail/20260225102245866800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
           "url": "https://wallstreetcn.com/livenews/3058232",
           "source": "华尔街见闻-快讯",
@@ -211,6 +366,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：股市创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260225102233481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普发表国情咨文之际 中期选举阴云笼罩共和党",
+          "url": "https://flash.jin10.com/detail/20260225102214417800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -233,6 +410,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国总统特朗普：已收到超过8000万桶委内瑞拉石油。",
+          "url": "https://flash.jin10.com/detail/20260225102201089800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：2025年最后3个月核心通胀降至1.7%。",
+          "url": "https://flash.jin10.com/detail/20260225102151132800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
@@ -263,9 +462,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美国总统特朗普：我们是世界上（经济）最火热的国家。",
+          "url": "https://flash.jin10.com/detail/20260225102141890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "报道：特朗普将呼吁出台新形式的减税措施",
@@ -290,6 +500,39 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美国总统特朗普：已从全球范围内获得18万亿美元的（投资）资金承诺。",
+          "url": "https://flash.jin10.com/detail/20260225102119684800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：低利率将解决住房危机。",
+          "url": "https://flash.jin10.com/detail/20260225102042890800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率处于四年来最低。",
+          "url": "https://flash.jin10.com/detail/20260225102008896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
           "source": "华尔街见闻-快讯",
@@ -301,6 +544,50 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美国总统特朗普：我的政府已将通货膨胀率降至5年来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260225101945097800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们将始终允许合法入境的人。",
+          "url": "https://flash.jin10.com/detail/20260225101858914800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
+          "url": "https://wallstreetcn.com/livenews/3058444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "白宫官员称，特朗普政府致力于将临时关税税率从10%提高至15%。现货金银早盘走高。美伊会谈临近，油市屏息以待，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260225101849229800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -310,12 +597,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美国总统特朗普：过去9个月里，没有一名非法移民进入美国。",
+          "url": "https://flash.jin10.com/detail/20260225101729739800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在拥有美国历史上最强大、最安全的边境。",
+          "url": "https://flash.jin10.com/detail/20260225101647617800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们的边境安全无虞。",
+          "url": "https://flash.jin10.com/detail/20260225101541831800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "民主党籍联邦众议员阿尔·格林被护送出美国总统特朗普的国情咨文演讲现场。",
+          "url": "https://flash.jin10.com/detail/20260225101512063800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国总统特朗普：我接手的是一个处于危机中的国家。",
+          "url": "https://flash.jin10.com/detail/20260225101424636800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -337,11 +679,12 @@
             9,
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时36分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -351,11 +694,12 @@
             16,
             17,
             15,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时36分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -363,11 +707,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时36分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -380,6 +725,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 05时45分]"
+        },
+        {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "日本内阁官房副长官：确认一名日本国民在伊朗被拘留。",
+          "url": "https://flash.jin10.com/detail/20260225102330364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -403,6 +770,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时15分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
@@ -597,8 +975,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时36分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -610,6 +988,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 10时36分]"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -720,24 +1110,13 @@
           "time_info": "01时59分"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -756,7 +1135,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -769,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时15分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -870,7 +1260,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
