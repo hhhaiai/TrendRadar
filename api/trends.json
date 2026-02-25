@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:15:20.087548+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-02-25T23:08:35.700494+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -86,6 +86,17 @@
           "time_info": "[10时36分 ~ 17时01分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 23时08分]"
+        },
+        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时36分 ~ 14时05分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 21时15分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -266,6 +266,17 @@
           "time_info": "[05时09分 ~ 07时38分]"
         },
         {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
           "url": "https://wallstreetcn.com/livenews/3058476",
           "source": "华尔街见闻-快讯",
@@ -275,6 +286,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 23时08分]"
         },
         {
           "title": "特朗普走上“关税悬崖”",
@@ -309,19 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时05分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 21时15分]"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -686,7 +697,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -763,7 +774,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -821,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美国总统特朗普：我们将始终允许合法入境的人。",
@@ -947,7 +969,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -977,6 +999,21 @@
           "time_info": "[00时04分 ~ 10时36分]"
         },
         {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1,
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 23时08分]"
+        },
+        {
           "title": "美大军压境伊朗为何不屈服",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
           "source": "bilibili 热搜",
@@ -988,20 +1025,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时19分 ~ 19时11分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 21时15分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -1090,7 +1113,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1165,6 +1188,17 @@
           "time_info": "[17时01分 ~ 19时11分]"
         },
         {
+          "title": "伊朗外长启程赴日内瓦参加伊美新一轮间接谈判",
+          "url": "https://wallstreetcn.com/livenews/3058921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "日媒：一名日本公民被伊朗拘留",
           "url": "https://www.toutiao.com/trending/7610698832640216603/",
           "source": "今日头条",
@@ -1229,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "市场消息：一名真主党官员表示，对哈梅内伊的袭击是一条红线。若美国对伊朗实施有限打击，我们不会干预。",
+          "url": "https://flash.jin10.com/detail/20260225223829863800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "伊朗副外长：德黑兰希望美方展现出同样达成核协议的意愿。",
@@ -1333,7 +1378,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1393,6 +1438,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时38分 ~ 14时05分]"
+        },
+        {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -1556,9 +1634,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "美股延续涨势，纳指涨幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260225224758231800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -1570,12 +1659,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260225224445821800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴涨下的众生相",
@@ -1587,6 +1731,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美银：金价有望在未来12个月内触及6000美元",
+          "url": "https://flash.jin10.com/detail/20260225230013139800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时08分]"
         },
         {
           "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
@@ -1609,17 +1776,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
-        },
-        {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
