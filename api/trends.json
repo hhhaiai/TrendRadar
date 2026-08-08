@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:42:07.861166+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-08-08T18:37:42.069942+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时36分 ~ 17时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时36分 ~ 18时37分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -51,8 +51,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 18时37分]"
+        },
+        {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "伊朗官员称防务协议无法保障沙特安全",
@@ -70,15 +81,19 @@
           "time_info": "[07时37分 ~ 14时59分]"
         },
         {
-          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
-          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
-          "source": "凤凰网",
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1,
+            6,
+            9,
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 18时37分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
@@ -92,6 +107,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
+          "url": "https://flash.jin10.com/detail/20260808181945934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：我们不会屈服于强权，但也不寻求战争和侵略。",
           "url": "https://flash.jin10.com/detail/20260808025156100800",
           "source": "金十数据",
@@ -101,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：美国从地区国家的领土对我们发动攻击，我们必须进行自卫。",
@@ -114,18 +151,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6,
-            9,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 17时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗总统称敌人未能将伊朗推入崩溃",
@@ -133,11 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
@@ -152,6 +187,19 @@
           "time_info": "[01时02分 ~ 03时02分]"
         },
         {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时37分]"
+        },
+        {
           "title": "伊朗发视频隐喻美国国运衰落原因",
           "url": "https://www.toutiao.com/trending/7671188288800899082/",
           "source": "今日头条",
@@ -163,6 +211,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时45分 ~ 07时37分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -187,27 +246,17 @@
           "time_info": "[04时45分 ~ 07时37分]"
         },
         {
-          "title": "曝美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://www.toutiao.com/trending/7671436241469538350/",
-          "source": "今日头条",
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            14,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时46分 ~ 17时42分]"
-        },
-        {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 17时42分]"
+          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医",
@@ -222,18 +271,6 @@
           "time_info": "[13时52分 ~ 14时59分]"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://wallstreetcn.com/livenews/3146980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 17时42分]"
-        },
-        {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
           "url": "https://wallstreetcn.com/livenews/3146901",
           "source": "华尔街见闻-快讯",
@@ -244,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时43分]"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
+          "url": "https://flash.jin10.com/detail/20260808174542910800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -407,8 +455,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 18时37分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -422,8 +470,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[04时45分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[04时45分 ~ 18时37分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -585,8 +633,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -596,8 +644,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "特朗普让检察官重新审视倒影池案",
@@ -747,8 +795,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 17时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 18时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -762,8 +810,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 18时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -777,8 +825,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时39分 ~ 17时42分]"
+          "appearance_count": 16,
+          "time_info": "[06时39分 ~ 18时37分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -869,11 +917,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时46分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时37分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -1070,8 +1119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 17时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 18时37分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -1085,8 +1134,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[04时45分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[04时45分 ~ 18时37分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1203,8 +1252,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 18时37分]"
         }
       ]
     },
@@ -1220,8 +1269,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 18时37分]"
         }
       ]
     },
