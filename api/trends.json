@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:50:39.489798+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-08-12T14:19:56.716659+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -118,7 +118,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -166,8 +166,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时19分]"
         },
         {
           "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
@@ -178,8 +178,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时19分]"
         },
         {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
@@ -187,11 +187,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时19分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -199,11 +200,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时19分]"
         },
         {
           "title": "美国国务院发言人：我们正与财政部采取行动，继续对伊朗实施极限施压。",
@@ -349,6 +351,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
+          "url": "https://flash.jin10.com/detail/20260812133649340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
           "url": "https://wallstreetcn.com/livenews/3148217",
           "source": "华尔街见闻-快讯",
@@ -423,6 +436,18 @@
           "time_info": "[00时09分 ~ 10时10分]"
         },
         {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 14时19分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
@@ -449,16 +474,15 @@
           "time_info": "[05时53分 ~ 07时43分]"
         },
         {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            2
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时19分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -483,17 +507,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时47分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时50分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -579,7 +592,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -689,8 +702,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时47分 ~ 12时50分]"
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 14时19分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -851,6 +864,85 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            14,
+            9,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时59分 ~ 14时19分]"
+        },
+        {
+          "title": "DeepSeek智能体要来了？公众号已完成注册认证",
+          "url": "https://wallstreetcn.com/livenews/3148405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时43分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "Chatgpt把Deepseek当宿敌了",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -923,63 +1015,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            14,
-            9,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时59分 ~ 12时50分]"
-        },
-        {
-          "title": "DeepSeek智能体要来了？公众号已完成注册认证",
-          "url": "https://wallstreetcn.com/livenews/3148405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时50分 ~ 07时43分]"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         }
       ]
     },
@@ -1075,7 +1110,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
