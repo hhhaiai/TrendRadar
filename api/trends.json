@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:19:56.716659+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-08-12T16:21:44.703410+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -147,6 +147,17 @@
           "time_info": "[03时15分 ~ 05时53分]"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时21分]"
+        },
+        {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
           "url": "https://flash.jin10.com/detail/20260812063020231800",
           "source": "金十数据",
@@ -159,17 +170,6 @@
           "time_info": "[06时47分 ~ 07时43分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时19分]"
-        },
-        {
           "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
           "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
           "source": "凤凰网",
@@ -178,8 +178,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时21分]"
         },
         {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
@@ -191,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时21分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -340,6 +340,28 @@
           "time_info": "04时51分"
         },
         {
+          "title": "日本首相高市早苗与伊朗总统通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3148490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "摩萨德前局长称以方人员多次“踩点”伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3148488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗国家电视台（IRIB）援引最高领袖顾问的话：霍尔木兹海峡将继续关闭，直至满足相关条件。",
           "url": "https://flash.jin10.com/detail/20260811233430677800",
           "source": "金十数据",
@@ -357,7 +379,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -382,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "巴基斯坦：内政部长向伊朗领导人传递一则“特殊且重要”信息",
+          "url": "https://wallstreetcn.com/livenews/3148480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
@@ -409,7 +442,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -444,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 16时21分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -564,6 +597,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国总统特朗普：正在调查联邦政府是否有权阻止曼达尼在纽约市征收“第二住所税”。",
           "url": "https://flash.jin10.com/detail/20260811234049773800",
           "source": "金十数据",
@@ -655,7 +699,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -818,6 +862,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
+          "url": "https://wallstreetcn.com/livenews/3148503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260812010805081800",
           "source": "金十数据",
@@ -912,11 +967,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 16时21分]"
         },
         {
           "title": "Chatgpt把Deepseek当宿敌了",
@@ -925,7 +981,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
