@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T11:42:54.824697+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-08-15T18:27:59.847382+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国总统特朗普：不在乎在中期选举前打击伊朗经济。",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815175959913800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "特朗普：将对伊朗实施严厉经济打击",
@@ -96,8 +107,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -107,19 +132,6 @@
             8,
             20,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -221,6 +233,17 @@
           "time_info": "[03时13分 ~ 03时52分]"
         },
         {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/articles/3779487",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%B8%BA%E7%BE%8E%E9%A2%86%E5%9C%9F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -279,7 +302,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
@@ -288,9 +311,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "伊朗情报部称发现法国“白蚁计划”，企图渗透和干涉伊朗内政",
+          "url": "https://flash.jin10.com/detail/20260815181033021800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "据媒体报道，伊朗和塔吉克斯坦正在就向塔吉克斯坦炼油厂供应伊朗过剩石油产品和原油一事进行磋商。",
+          "url": "https://wallstreetcn.com/livenews/3149970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
@@ -299,7 +344,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -310,7 +355,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -375,6 +420,72 @@
           "time_info": "[03时13分 ~ 03时52分]"
         },
         {
+          "title": "伊朗外长称无意延长停火协议",
+          "url": "https://news.ifeng.com/c/8vc12jNNZER",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "据伊朗Press TV：以色列对黎巴嫩南部的空袭造成七人死亡，三人受伤。",
+          "url": "https://flash.jin10.com/detail/20260815170114115800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗外长说无意延长停火协议",
+          "url": "https://wallstreetcn.com/livenews/3149962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡归属无可争议",
+          "url": "https://wallstreetcn.com/livenews/3149959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗外交部官员：美国炒作霍尔木兹海峡是被动回应",
+          "url": "https://flash.jin10.com/detail/20260815164332870800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗外长说无意延长停火协议",
+          "url": "https://flash.jin10.com/detail/20260815163716667800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
           "url": "https://flash.jin10.com/detail/20260815050027660800",
           "source": "金十数据",
@@ -384,6 +495,121 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗让“世界上武装最强大的军队”屈服",
+          "url": "https://flash.jin10.com/detail/20260815155839561800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗石油部长会见塔吉克斯坦交通部长及能源与水资源部长",
+          "url": "https://flash.jin10.com/detail/20260815152541134800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗通讯部长：在战争期间超过500个电信站点遭到袭击，一些设施在修复并恢复服务后再次被击中。",
+          "url": "https://flash.jin10.com/detail/20260815150901030800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "url": "https://wallstreetcn.com/livenews/3149942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            7,
+            22,
+            18,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 18时27分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 18时27分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时42分]"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 06时27分]"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
@@ -452,60 +678,53 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
+          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+          "url": "https://flash.jin10.com/detail/20260815024758590800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            5
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时42分]"
+          "time_info": "[03时13分 ~ 03时52分]"
         },
         {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            7,
-            22,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 11时42分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 11时42分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伯克希尔Q2大幅增持谷歌，Alphabet跃升为其第三大持仓股",
+          "url": "https://wallstreetcn.com/livenews/3149876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 06时27分]"
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "伯克希尔哈撒韦Q2增持谷歌",
+          "url": "https://wallstreetcn.com/livenews/3149872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -571,11 +790,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时27分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -606,49 +826,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
-          "url": "https://flash.jin10.com/detail/20260815024758590800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时52分]"
-        },
-        {
-          "title": "伯克希尔Q2大幅增持谷歌，Alphabet跃升为其第三大持仓股",
-          "url": "https://wallstreetcn.com/livenews/3149876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "伯克希尔哈撒韦Q2增持谷歌",
-          "url": "https://wallstreetcn.com/livenews/3149872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         }
       ]
     },
@@ -664,8 +844,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时27分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
