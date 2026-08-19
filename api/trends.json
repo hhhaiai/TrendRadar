@@ -1,470 +1,295 @@
 {
-  "generated_at": "2026-08-18T02:44:14.258290+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-19T20:53:38.536142+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 23,
+      "keyword_group": "美股",
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260818022202794800",
-          "source": "金十数据",
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：美国不寻求延长与伊朗的谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260818021544696800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3150646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：霍尔木兹海峡保持开放，油价正在回落。",
-          "url": "https://flash.jin10.com/detail/20260818021458136800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普谈及英国首相，称：我认为他将开放北海。 他面临移民和能源问题。",
-          "url": "https://wallstreetcn.com/livenews/3150644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：他们（伊朗）不会达成我认为有必要的协议。 伊朗想要达成协议，但他们不会接受我认为必要的协议。 伊朗不会拥有核武器。 如果韩国不提供协助，我们就无法为其提供保护。",
-          "url": "https://wallstreetcn.com/livenews/3150643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们每周从霍尔木兹海峡运出数百万桶石油，海峡是开放的。",
-          "url": "https://flash.jin10.com/detail/20260818021329619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普将宣布霍尔木兹为美国领土",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
-          "title": "特朗普推文揭穿美韩同盟的价码",
-          "url": "https://www.toutiao.com/trending/7675000036710682154/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗正面临重大危机。",
-          "url": "https://flash.jin10.com/detail/20260818021305016800",
-          "source": "金十数据",
+          "title": "股债市场短暂喘息，美股盘前存储芯片股普涨，SK海力士涨约6%，Moderna涨超80%，油价四连涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "20时53分"
         },
         {
-          "title": "美国总统特朗普：我们控制着霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260818021216451800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们的主要目标是阻止伊朗获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260818020823870800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：（关于英国首相）他面临移民和能源问题。",
-          "url": "https://flash.jin10.com/detail/20260818020720372800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：（关于英国首相）我认为他将会开放北海。",
-          "url": "https://flash.jin10.com/detail/20260818020713270800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：（关于韩国）如果他们不帮助我们，我们也无法保护他们。",
-          "url": "https://flash.jin10.com/detail/20260818020650110800",
-          "source": "金十数据",
+          "title": "美股盘前三大股指期货集体翻红",
+          "url": "https://www.douyin.com/hot/2615877",
+          "source": "抖音",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "20时53分"
         },
         {
-          "title": "美国总统特朗普：我与韩国相处得很好。",
-          "url": "https://flash.jin10.com/detail/20260818020512061800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗想达成协议，但他们不会达成我认为必要的那种协议。",
-          "url": "https://flash.jin10.com/detail/20260818020455379800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：韩国总统告诉我，他宁愿不介入伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260818020333107800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
-          "url": "https://wallstreetcn.com/livenews/3150631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国总统特朗普：阿曼的表现不太好，但我们会处理他们。",
-          "url": "https://flash.jin10.com/detail/20260818015935336800",
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-19）",
+          "url": "https://flash.jin10.com/detail/20260819203719059800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "time_info": "20时53分"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "土耳其外交消息人士：土耳其外长与伊朗外长通电话，讨论了开放霍尔木兹海峡的努力以及延续美伊停火事宜。",
-          "url": "https://flash.jin10.com/detail/20260818020040384800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美国能源部长Wright围绕伊朗问题宣称：美国正在玩长期游戏。",
-          "url": "https://wallstreetcn.com/livenews/3150630",
+          "title": "美股盘前：疫苗股大涨，Moderna涨102%",
+          "url": "https://wallstreetcn.com/livenews/3151772",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "伊朗：阿联酋油轮在霍尔木兹海峡遭截停",
-          "url": "https://wallstreetcn.com/livenews/3150628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "伊朗外长：（回应伊拉克外长）伊朗没有理由袭击库尔德斯坦政府首脑官邸。",
-          "url": "https://flash.jin10.com/detail/20260818015243262800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "20时53分"
         },
         {
-          "title": "伊朗最高领袖顾问：美国的未来将由“家庭餐桌”而非“作战室”决定",
-          "url": "https://wallstreetcn.com/livenews/3150622",
+          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换债",
+          "url": "https://wallstreetcn.com/livenews/3151762",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "伊朗官员称已为美设定最后期限",
-          "url": "https://wallstreetcn.com/livenews/3150619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
-          "url": "https://wallstreetcn.com/livenews/3150640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
-          "url": "https://flash.jin10.com/detail/20260818014629403800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "“价格屠夫”梁文锋“收刀”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "迈威尔科技美股盘前涨近9%，公司向谷歌发行可购买至多5897万股股票的认股权证",
+          "url": "https://wallstreetcn.com/livenews/3151791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)美股盘前上涨11%，公司与谷歌达成定制芯片协议。",
+          "url": "https://flash.jin10.com/detail/20260819203655065800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "博通(AVGO.O)盘前下跌3.4%，因迈威尔科技与谷歌达成定制芯片协议。",
+          "url": "https://flash.jin10.com/detail/20260819203123832800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美国财政部公布回购相关计划后，美债收益率曲线大幅趋平。",
+          "url": "https://flash.jin10.com/detail/20260819203850216800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报99.15。欧元兑美元EUR/USD日内涨幅扩大至0.50%，现报1.1632。",
+          "url": "https://flash.jin10.com/detail/20260819204856285800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美元指数DXY一度跌至11周低点99.155，现报99.23。欧元兑美元EUR/USD上涨至10周高点1.1629。",
+          "url": "https://flash.jin10.com/detail/20260819204341391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "布伦特原油期货涨穿90美元关口，为8月12日以来首次，当前涨幅1.8%。 WTI原油期货涨幅扩大至2%，报83.10美元/桶。 恐慌指数VIX涨7.5%，报15.32；标普500指数跌超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3150636",
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：伊朗启动铁路运输通道 将伊拉克成品油运往土耳其",
+          "url": "https://wallstreetcn.com/livenews/3151781",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "20时53分"
         }
       ]
     }
