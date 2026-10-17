@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T16:23:01.923152+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-10-17T20:47:49.689976+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -30,6 +30,39 @@
           "time_info": "[16时22分 ~ 16时23分]"
         },
         {
+          "title": "“特朗普暂停对俄制裁，是历史性时刻”",
+          "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "特朗普新闻秘书上任五天被解职，美媒：一瓶牛奶保质期比这都长",
+          "url": "https://flash.jin10.com/detail/20261017202606160800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://wallstreetcn.com/livenews/3180574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
           "url": "https://flash.jin10.com/detail/20261017053548187800",
           "source": "金十数据",
@@ -41,15 +74,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
-          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
           "source": "凤凰网",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
@@ -57,6 +90,18 @@
           "source": "财联社热门",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 20时47分]"
+        },
+        {
+          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
+          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
@@ -205,7 +250,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -227,7 +272,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -241,6 +286,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
+          "url": "https://flash.jin10.com/detail/20261017194041071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
+          "url": "https://wallstreetcn.com/livenews/3180561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国总统特朗普：我当然希望普京出席G20峰会，但我不知道他是否会来。",
@@ -263,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -312,7 +401,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -324,8 +413,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 20时47分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
@@ -335,8 +424,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 20时47分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -346,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 20时47分]"
         },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
@@ -357,11 +446,12 @@
             5,
             7,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 20时47分]"
         },
         {
           "title": "周五（10月16日），美股行业ETF多数收跌，网络股指数ETF跌3.43%，半导体ETF跌3.41%，科技行业ETF跌3.02%，全球科技股指数ETF跌2.88%，能源业ETF涨2.52%。",
@@ -384,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "金十图示：2026年10月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -488,7 +589,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -508,9 +609,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
+          "url": "https://original.ifeng.com/c/8xIaMUyrmpk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "伊朗革命卫队称，周六在霍尔木兹岛附近海域又有一艘油轮触雷。",
+          "url": "https://flash.jin10.com/detail/20261017201455746800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "伊朗革命卫队称，周六在霍尔木兹岛附近海域又有一艘油轮触雷。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3180571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸",
@@ -548,13 +682,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "伊朗有意在沙特与胡塞武装之间斡旋",
+          "url": "https://wallstreetcn.com/livenews/3180563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "伊朗官员：决定局势的是伊朗导弹，而非美国炸弹",
           "url": "https://flash.jin10.com/detail/20261017141834541800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -595,7 +740,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -604,11 +749,23 @@
           "ranks": [
             9,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 20时47分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+          "url": "https://www.zhihu.com/question/2094773240036061683",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
@@ -623,6 +780,18 @@
           "time_info": "[07时20分 ~ 11时37分]"
         },
         {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 20时47分]"
+        },
+        {
           "title": "如何看待网友说 DeepSeek 在爱里长大？",
           "url": "https://www.zhihu.com/question/2093751116613866755",
           "source": "知乎",
@@ -634,15 +803,15 @@
           "time_info": "[01时14分 ~ 07时20分]"
         },
         {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "title": "Deepseek V4.1 Flash新版本发布",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "DeepSeek上线搜索抓取API",
@@ -654,6 +823,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "DeepSeek新版本 许愿式编程一键成真",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E7%89%88%E6%9C%AC+%E8%AE%B8%E6%84%BF%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B8%80%E9%94%AE%E6%88%90%E7%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash发布新版本",
+          "url": "https://wallstreetcn.com/livenews/3180557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -823,11 +1014,12 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时47分]"
         }
       ]
     },
